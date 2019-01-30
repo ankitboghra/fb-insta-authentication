@@ -1,0 +1,27 @@
+{
+  "name": "instagram-node",
+  "version": "1.0.0",
+  "description": "Instagram auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "instagram-graph-api"
+  },
+  "keywords": [
+    "instagram",
+    "graph",
+    "api",
+    "authentication"
+  ],
+  "author": "Ankitkumar Boghra",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "request": "^2.88.0"
+  }
+}
