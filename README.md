@@ -12,7 +12,9 @@ Clone the repository and install the dependencies.
 git clone https://github.com/ankitboghra/fb-insta-authentication.git
 npm install
 ```
-Setup your config file, as shown in the sample config file. And then you can run the app
+### Setup your config file
+- Rename the _sampleconfig.js_ to _config.js_
+- Add all the given keys and variables as per your APP
 
 ```
 npm start
